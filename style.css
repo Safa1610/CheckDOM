@@ -1,0 +1,27 @@
+
+
+.container {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color:#68417f;
+    display: flex;
+    justify-content: center;
+}
+#color-box {
+    height:300px;
+    width:500px;
+    background-color: #f2cfda;
+}
+#change-color-btn {
+    background: #c66aab;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    height:50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 45px 150px;
+}
